@@ -52,7 +52,7 @@ streamlit run app.py
 
 - Permite ver logs de inicialização e execução de todos executáveis
 
-- Permite iniciar novos executáveis
+- Permite instânciar novos executáveis
 
 - Reflexo imediato no código-fonte editado em execução
 
