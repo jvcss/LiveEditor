@@ -9,7 +9,7 @@
 
 ## O que é
 
-- Aplicativo para gerenciar instâncias Streamlit por meio de um editor conectado com git e github.
+- Aplicativo para gerenciar instâncias Streamlit por meio de um editor conectado com `git` e `github`.
 
 - Enquanto a porta `8001` está com o **App** aberto, o **Editor** na porta `8002` editar ao vivo e pode enviar modificações direto para o Github.
 
