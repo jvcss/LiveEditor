@@ -1,9 +1,9 @@
 
 <h2 align="center">
-  <img src="https://img.icons8.com/clouds/2x/whatsapp.png"/>
-  <img src="https://img.icons8.com/nolan/2x/bot.png"/>
+  <img src="https://img.icons8.com/fluency/2x/edit-text-file.png"/>
+  <img src="https://img.icons8.com/fluency/2x/bot.png"/>
   <br/>
-  <b>Live Editor©</b>
+  <b>Live Editor<sup style="font-size:12px;">©</sup></b>
   <p>Aplicativo para automatizar criação de aplicativos em servidor AWS Linux</p>
 </h2>
 
