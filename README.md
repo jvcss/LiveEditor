@@ -21,10 +21,6 @@
 
 ## Como Executar
 
-- caso não tenha instalado as bibliotecas necessárias
-
-`pip install -r requirements.txt`
-
 ```bash
 git clone https://github.com/jvcss/LiveEditor.git
 
@@ -33,19 +29,25 @@ cd LiveEditor
 streamlit run app.py
 ```
 
+- caso não tenha instalado as bibliotecas necessárias
+
+`pip install -r requirements.txt`
+#
 ## Funcionalidades do Aplicativo
 
 - Cria privilégio de execução `chmod` automático a partir da tela **Editor**
 
-- Faz `commit` para o git configurado com comandos `bash`
+- Faz `commit` para o git com um click
+
+- Faz `pull request` para o github com um click
 
 - Permite personalizar o código-fonte com diversos temas
 
-- Permite ver logs de inicialização de novos executáveis
+- Permite ver logs de inicialização e execução de todos executáveis
 
 - Permite iniciar novos executáveis
 
-- Reflexo imediato no fonte editado
+- Reflexo imediato no código-fonte editado em execução
 
 - Executável `Linux` kernel
 
