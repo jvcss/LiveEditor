@@ -17,7 +17,7 @@
 - **Ferramentas**
   - Python
   - Streamlit
-  - Regular Expression
+  - Streamlit_ace
 
 ## Como Executar
 
