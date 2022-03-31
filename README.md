@@ -35,7 +35,7 @@ streamlit run app.py
 
 ## Funcionalidades do Aplicativo
 
-- Cria privilégio de execução `chmod` automático a partir da interface **Editor**
+- Cria privilégio de execução `chmod` automático a partir da tela **Editor**
 
 - Faz `commit` para o git configurado com comandos `bash`
 
