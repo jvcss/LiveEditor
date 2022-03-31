@@ -37,16 +37,10 @@ streamlit run app.py
 
 - Cria privilégio `chmod` automático a partir da interface **Editor**
 
-- Verificação automática das atualização de uma instância Streamlit para outra
+- Faz `commit` para o git confirado com comandos `bash`
 
 - Permite atualizar a base de contatos retirando os que foram excluídos após execução
 
-- Executável `Windows` e `Linux`
+- Executável `Linux` kernel
 
-- Windows permite envio de imagem e textos com edição
-
-- Linux não permite adicionar imagem na mensagem
-
-- Chrome precisa de uma versão do driver compatível com o seu navegador [Baixar](https://chromedriver.chromium.org/downloads)
-
-![Whatspper](images/plao_fundo_info_whatspper_automation.jpg)
+![Whatspper](images/info_editor_live_automation.jpg)
