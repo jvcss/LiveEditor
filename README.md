@@ -22,10 +22,10 @@
 
 - caso não tenha instalado as bibliotecas necessárias
 
-`pip install selenium`
+`pip install -r requirements.txt`
 
 ```bash
-git clone https://github.com/jvcss/whatspper.git
+git clone https://github.com/jvcss/LiveEditor.git
 
 cd LiveEditor
 
