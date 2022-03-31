@@ -35,12 +35,24 @@ streamlit run app.py
 
 ## Funcionalidades do Aplicativo
 
-- Cria privilégio `chmod` automático a partir da interface **Editor**
+- Cria privilégio de execução `chmod` automático a partir da interface **Editor**
 
-- Faz `commit` para o git confirado com comandos `bash`
+- Faz `commit` para o git configurado com comandos `bash`
 
-- Permite atualizar a base de contatos retirando os que foram excluídos após execução
+- Permite personalizar o código-fonte com diversos temas
+
+- Permite ver logs de inicialização de novos executáveis
+
+- Permite iniciar novos executáveis
+
+- Reflexo imediato no fonte editado
 
 - Executável `Linux` kernel
+
+## Funcionalidades Futuras
+
+- Criar arquivos a partir da página `Editor`
+
+- Reorganizar visualização de arquivos
 
 ![Whatspper](images/info_editor_live_automation.jpg)
