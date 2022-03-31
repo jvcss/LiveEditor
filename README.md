@@ -17,7 +17,7 @@
 - **Ferramentas**
   - Python
   - Streamlit
-  - Streamlit_ace
+  - Streamlit Ace
 
 ## Como Executar
 
@@ -35,7 +35,7 @@ streamlit run app.py
 
 ## Funcionalidades do Aplicativo
 
-- Cria **chmod** automático a partir da interface de **contatos** e **conversas**
+- Cria privilégio `chmod` automático a partir da interface **Editor**
 
 - Verificação automática das atualização de uma instância Streamlit para outra
 
