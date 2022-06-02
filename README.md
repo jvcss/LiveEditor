@@ -3,28 +3,28 @@
   <img src="https://img.icons8.com/fluency/2x/edit-text-file.png"/>
   <img src="https://img.icons8.com/fluency/2x/bot.png"/>
   <br/>
-  <b>Live Editor<sup style="font-size:12px;">©</sup></b>
+  <b>Live Editor</b>
   <p>Aplicativo para automatizar criação de aplicativos em servidor AWS Linux</p>
 </h2>
 
-## O que é
+## What it is
 
-- Aplicativo para gerenciar instâncias Streamlit por meio de um editor conectado com `git` e `github`.
+- App to manager Streamlit instances by editing code through `git` and `github`.
 
-- Enquanto a porta `8001` está com o **App** aberto, o **Editor** na porta `8002` edita ao vivo e pode enviar modificações direto para o Github.
+- While `8001` port host **App** the **Editor** on port `8002` change the live code that can be shared with a click.
 
 <br/>
 
-## O que utiliza
+## What it use
 
-- **Ferramentas**
+- **Tools**
   - Python
   - Streamlit
-  - Streamlit Ace
+  - StreamlitAce
 
 <br/>
 
-## Como Executar
+## Run
 
 ```bash
 git clone https://github.com/jvcss/LiveEditor.git
@@ -34,34 +34,26 @@ cd LiveEditor
 streamlit run app.py
 ```
 
-- caso não tenha instalado as bibliotecas necessárias
+- Run this line to install all dependencies
 
 `pip install -r requirements.txt`
 
 <br/>
 
-## Funcionalidades do Aplicativo
+## Features
 
-- Cria privilégio de execução `chmod` automático a partir da tela **Editor**
+- Privilege escalation with one click
 
-- Faz `commit` para o git com um click
+- Apply `commit`
 
-- Faz `pull request` para o github com um click
+- Apply `pull request`
 
-- Permite personalizar o código-fonte com diversos temas
+- Many themes
 
-- Permite ver logs de inicialização e execução de todos executáveis
+- Build logs for intances 
 
-- Permite instânciar novos executáveis
+- Allow create new app intances
 
-- Reflexo imediato no código-fonte editado em execução
+- Execute on `Linux` based
 
-- Executável `Linux` kernel
-
-## Funcionalidades Futuras
-
-- Criar arquivos a partir da página `Editor`
-
-- Reorganizar visualização de arquivos
-
-![Whatspper](images/info_editor_live_automation.jpg)
+![LiveEditor](images/info_editor_live_automation.jpg)
