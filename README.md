@@ -4,7 +4,7 @@
   <img src="https://img.icons8.com/fluency/2x/bot.png"/>
   <br/>
   <b>Live Editor</b>
-  <p>Aplicativo para automatizar criação de aplicativos em servidor AWS Linux</p>
+  <p>App to automate minimal changes within AWS Linux Server</p>
 </h2>
 
 ## What it is
